@@ -46,8 +46,8 @@ To get a local copy of this project up and running, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/shubhang0009/your-portfolio-repo.git
-cd your-portfolio-repo
+git clone https://github.com/shubhang0009/portfolio.git
+cd portfolio
 
 
 Open with Live Server:
